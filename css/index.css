@@ -985,6 +985,9 @@ a[href^="http://maps.google.com/maps"],a[href^="https://maps.google.com/maps"] {
     .videoPopup .video_frame {
         min-height: 600px
     }
+    .type {
+        top: -85px
+    }
 }
 
 @media screen and (min-width:1199.98px) {
