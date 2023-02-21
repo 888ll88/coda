@@ -1495,6 +1495,7 @@ input[type=search]::-webkit-search-cancel-button,input[type=search]::-webkit-sea
         top: -165px;
         right: -37%;
         max-height: 700px;
+        min-width: 80%;
         width: auto
     }
 }
