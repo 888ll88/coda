@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="413.8604669150561" height="420.32558135666545" xml:space="preserve" style=""><rect id="backgroundrect" width="100%" height="100%" x="0" y="0" fill="none" stroke="none" style="" class=""/>
+<desc>Created with Fabric.js 5.2.4</desc>
+<defs>
+<filter xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="f116" inkscape:label="Garden of Delights" inkscape:menu="Overlays" inkscape:menu-tooltip="Phantasmagorical turbulent wisps, like Hieronymus Bosch's Garden of Delights" x="-0.15000000596046448" width="1.2999999523162842" y="-0.15000000596046448" height="1.2999999523162842" color-interpolation-filters="sRGB">
+            <feTurbulence result="result1" baseFrequency="0.005 0.01" numOctaves="8" type="fractalNoise" seed="20"/>
+            <feColorMatrix result="result3" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1.2 -0.4 "/>
+            <feConvolveMatrix order="3 3" kernelMatrix="3 0 0 0 2 0 0 0 -1 " targetX="1" targetY="1" divisor="2" result="result8"/>
+            <feComposite result="fbSourceGraphic" in2="SourceGraphic" operator="atop" in="result8"/>
+            <feTurbulence baseFrequency="0.027 0.025" numOctaves="7" type="turbulence" seed="20"/>
+            <feColorMatrix values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 4.7 -2 " result="result5"/>
+            <feComposite in2="result5" operator="in" in="fbSourceGraphic" result="result6"/>
+            <feDisplacementMap in2="result5" result="result4" scale="48" yChannelSelector="A" xChannelSelector="R" in="result6"/>
+            <feFlood flood-color="#ded9d9" flood-opacity="1"/>
+            <feComposite in2="result4" operator="in" result="result2"/>
+            <feComposite in2="fbSourceGraphic" operator="atop" in="result2" result="result91"/>
+            <feBlend mode="darken" in2="result91"/>
+        </filter></defs>
+
+
+
+
+
+<g class="currentLayer" style=""><title>Layer 1</title><rect x="4.228070338285761e-8" y="107.72426337003708" width="521.97802734375" height="215.85557556152344" fill="transparent" id="svg_1" class=""/>
+
+<g id="b068ad74-6484-4228-8a01-ad35085db780" class="">
+</g>
+
+		<g id="container" stroke-width="0" stroke="#000000" stroke-opacity="1" class="" fill="#0b0bd5" fill-opacity="1">
+</g>
+		<g id="icon_container" stroke-width="0" stroke="#000000" stroke-opacity="1" class="" fill="#0b0bd5" fill-opacity="1">
+</g>
+		<g id="path7004" stroke-width="0" stroke="#000000" stroke-opacity="1" class="" fill="#0b0bd5" fill-opacity="1">
+<path style="stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 2; fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke" d="M109.54940167286532,391.7627609672097 C143.52729096177546,409.4931081968169 182.19178566984544,418.07230846920714 225.5428857970756,418.07230846920714 C263.0357291503557,418.07230846920714 296.4277927618705,411.7808949361206 326.89072798641064,398.62612118512214 C356.76783753355585,386.0432941189494 381.95834166154077,367.1690535196904 401.8764146929708,342.5753460721712 L328.0623793412009,277.37342400200407 C301.11439818103077,308.8304916674357 268.89398592430575,324.27305215773845 231.40114257102573,324.27305215773845 C209.13976683001562,324.27305215773845 189.22169379858542,319.69747867913026 171.6469234767357,309.97438503708764 C154.07215315488537,300.82323807987126 140.59816257480077,287.09651764404657 131.22495173648025,269.9381170992658 C121.8517408981603,252.77971655448488 117.16513547900018,232.76158258557388 117.16513547900018,209.88371519253286 C117.16513547900018,187.57779448431754 121.8517408981603,167.55966051540662 131.22495173648025,150.4012599706258 C140.59816257480026,133.24285942584487 154.07215315488537,119.51613899002035 171.6469234767357,109.79304534797771 C189.22169379858593,100.64189839076133 209.13976683001562,95.49437822732702 231.40114257102573,95.49437822732702 C268.89398592430575,95.49437822732702 301.11439818103077,111.50888540245595 328.0623793412009,142.39400638306142 L401.8764146929708,77.19208431289431 C381.95834166154134,53.17032355020106 356.76783753355585,34.29608295094218 326.89072798641064,21.14130919994347 C296.4277927618705,8.558482133770937 263.0357291503557,1.6951219158585364 225.5428857970756,1.6951219158585364 C182.19178566984544,1.6951219158585364 143.52729096177546,10.84626887307492 109.54940167286532,28.576616102681754 C75.57151238395562,46.306963332288646 48.62353122378528,70.90067077980801 29.291283869750714,102.35773844523942 C9.373210838320347,134.38675279549702 0,169.84744725471086 0,209.88371519253286 C0,249.9199831303548 9.373210838320347,285.95262427439457 29.291283869750714,317.4096919398261 C48.62353122378528,349.43870629008376 75.57151238395562,374.03241373760295 109.54940167286532,391.76276096720983 z" stroke-linecap="round" stroke-width="0" id="svg_5" stroke="#000000" stroke-opacity="1" fill="#0b0bd5" fill-opacity="1"/>
+</g>
+		
+		
+		
+		<g id="icon" stroke-width="0" stroke="#000000" stroke-opacity="1" class="" fill="#0b0bd5" fill-opacity="1">
+</g>
+
+<g id="svg_9" class="">
+<g style="" stroke-width="NaN" id="svg_10">
+</g>
+</g><path fill="" fill-opacity="1" stroke="none" stroke-opacity="1" stroke-width="1" stroke-dasharray="none" stroke-linejoin="miter" stroke-linecap="butt" stroke-dashoffset="" fill-rule="nonzero" opacity="1" marker-start="" marker-mid="" marker-end="" d="M63.0000000422807,141 C63.0000000422807,141 63.0000000422807,141 63.0000000422807,141 C63.0000000422807,141 63.0000000422807,141 63.0000000422807,141 C63.0000000422807,141 63.0000000422807,141 63.0000000422807,141 C63.0000000422807,141 63.0000000422807,141 63.0000000422807,141 z" id="svg_11" class=""/></g></svg>
