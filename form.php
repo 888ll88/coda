@@ -13,7 +13,7 @@
 	$headers .= "Content-type: text/html; charset=iso-8859-1\r\n";
 
 	//body message
-	$message = "Name: ". $name . "<br>Email: ". $senderEmail . "<br> Message: " . $message . "";
+	$message = "Name: ". $name . "<br>Email: ". $senderEmail . "<br> Message: " . $message . " ";
 
 	//Email Send Function
     $send_email = mail($to, $subject, $message, $headers);
