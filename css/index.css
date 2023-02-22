@@ -3297,4 +3297,8 @@ input[type=search]::-webkit-search-cancel-button,input[type=search]::-webkit-sea
         transform: rotate(-493deg)
     }
 }
+
+.logo_services__homepage {
+    width: 45px;
+}
 /*# sourceMappingURL=../sourcemaps/index.css.map */
