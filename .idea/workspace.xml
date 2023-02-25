@@ -1,20 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7efa82f2-b0db-4a43-9e47-1a89a20104f4" name="Changes" comment="Logo">
+    <list default="true" id="7efa82f2-b0db-4a43-9e47-1a89a20104f4" name="Changes" comment="Images">
+      <change afterPath="$PROJECT_DIR$/img/blog1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/blog2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/post1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/post2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/post3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/post4.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog2.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/careers.html" beforeDir="false" afterPath="$PROJECT_DIR$/careers.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/faq.html" beforeDir="false" afterPath="$PROJECT_DIR$/faq.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/form.php" beforeDir="false" afterPath="$PROJECT_DIR$/form.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/index2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/post.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service.html" beforeDir="false" afterPath="$PROJECT_DIR$/service.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/services.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,14 +47,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/img" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/img" />
       <recent name="$PROJECT_DIR$/css" />
     </key>
   </component>
@@ -72,7 +66,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676211513799</updated>
-      <workItem from="1676211515728" duration="29547000" />
+      <workItem from="1676211515728" duration="30062000" />
+      <workItem from="1677065834986" duration="14728000" />
     </task>
     <task id="LOCAL-00001" summary="Test Logo">
       <created>1676886801930</created>
@@ -221,7 +216,63 @@
       <option name="project" value="LOCAL" />
       <updated>1677017850984</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="All">
+      <created>1677021154313</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1677021154313</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Images">
+      <created>1677021216760</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1677021216760</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Images">
+      <created>1677021282351</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1677021282352</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Magento react vue adobe">
+      <created>1677067825625</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1677067825625</updated>
+    </task>
+    <task id="LOCAL-00026" summary="MAil">
+      <created>1677069425165</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1677069425165</updated>
+    </task>
+    <task id="LOCAL-00027" summary="ABout Us">
+      <created>1677074266447</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1677074266447</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Images">
+      <created>1677105612509</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1677105612509</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Images">
+      <created>1677105812160</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1677105812160</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -246,6 +297,11 @@
     <MESSAGE value="Third topic homepage" />
     <MESSAGE value="Meta" />
     <MESSAGE value="Logo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Logo" />
+    <MESSAGE value="All" />
+    <MESSAGE value="Magento react vue adobe" />
+    <MESSAGE value="MAil" />
+    <MESSAGE value="ABout Us" />
+    <MESSAGE value="Images" />
+    <option name="LAST_COMMIT_MESSAGE" value="Images" />
   </component>
 </project>
