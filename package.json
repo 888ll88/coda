@@ -1,0 +1,7 @@
+{
+  "name": "global-master",
+  "version": "1.0.0",
+  "dependencies": {
+    "headroom.js": "^0.12.0"
+  }
+}

@@ -141,15 +141,15 @@
                 </div>
                 <div class="page_media">
                     <img class="page_media-arrow" src="svg/arrow.svg" alt="Join Our Dynamic Team" />
-                    <picture>
-                        <source data-srcset="img/placeholder.jpg" srcset="img/placeholder.jpg" type="image/webp" />
-                        <img
-                            class="page_media-image lazy"
-                            data-src="img/placeholder.jpg"
-                            src="img/placeholder.jpg"
-                            alt="Join Our Dynamic Team"
-                        />
-                    </picture>
+                    <lottie-player
+                            class="lottie"
+                            src="lottie/careers.json"
+                            background="transparent"
+                            speed=".5"
+                            style="width: 100%; height: 100%"
+                            loop
+                            autoplay
+                    ></lottie-player>
                 </div>
             </div>
         </header>
@@ -160,19 +160,20 @@
                 <div class="container">
                     <div class="pricing_header">
                         <h4 class="pricing_header-title">Check Out Our Latest Open Positions and Grow With Us!</h4>
-                        <p class="pricing_header-text">
-                            Simple and flexible. Only pay for what you use. For your small-to medium-sized companies
-                        </p>
+<!--                        <p class="pricing_header-text">-->
+<!--                            Simple and flexible. Only pay for what you use. For your small-to medium-sized companies-->
+<!--                        </p>-->
                     </div>
                     <ul class="pricing_list d-flex flex-column flex-md-row flex-wrap">
                         <li class="pricing_list-item">
                             <div class="pricing_list-item_header">
                                 <h5 class="title">Magento Developer</h5>
-                                <span class="price">
-                                    <span class="sign">$</span>
-                                    <span class="int">0</span>
-                                    <span class="float">00</span>
-                                </span>
+<!--                                <span class="price">-->
+<!--                                    <span class="sign">$</span>-->
+<!--                                    <span class="int">0</span>-->
+<!--                                    <span class="float">00</span>-->
+<!--                                </span>-->
+                                <img src="img/magento.svg" alt="React" style="max-width: 70px; margin: 10px auto;"/>
                                 <p class="label">Our team is looking for you</p>
                             </div>
                             <ul class="pricing_list-item_list">
@@ -193,7 +194,7 @@
                                     Content tracking
                                 </li>
                             </ul>
-                            <span class="btn btn--white current">Current Plan</span>
+                            <span class="btn btn--neon current">Join Team</span>
                         </li>
                         <li class="pricing_list-item">
                             <div class="media">
@@ -202,11 +203,12 @@
                             </div>
                             <div class="pricing_list-item_header">
                                 <h5 class="title">React Developer</h5>
-                                <span class="price">
-                                    <span class="sign">$</span>
-                                    <span class="int">10</span>
-                                    <span class="float">50</span>
-                                </span>
+<!--                                <span class="price">-->
+<!--                                    <span class="sign">$</span>-->
+<!--                                    <span class="int">10</span>-->
+<!--                                    <span class="float">50</span>-->
+<!--                                </span>-->
+                                <img src="img/react.svg" alt="React" style="max-width: 70px; margin: 10px auto;"/>
                                 <p class="label">Our team is looking for you</p>
                             </div>
                             <ul class="pricing_list-item_list">
@@ -231,16 +233,17 @@
                                     Setup & Reporting
                                 </li>
                             </ul>
-                            <a class="btn btn--neon signUpTrigger" href="#">Upgrade Plan</a>
+                            <a class="btn btn--white signUpTrigger" href="#">Join Team</a>
                         </li>
                         <li class="pricing_list-item">
                             <div class="pricing_list-item_header">
                                 <h5 class="title">PHP Developer</h5>
-                                <span class="price">
-                                    <span class="sign">$</span>
-                                    <span class="int">15</span>
-                                    <span class="float">00</span>
-                                </span>
+<!--                                <span class="price">-->
+<!--                                    <span class="sign">$</span>-->
+<!--                                    <span class="int">15</span>-->
+<!--                                    <span class="float">00</span>-->
+<!--                                </span>-->
+                                <img src="img/php.svg" alt="React" style="max-width: 70px; margin: 25px auto;"/>
                                 <p class="label">Our team is looking for you</p>
                             </div>
                             <ul class="pricing_list-item_list">
@@ -265,7 +268,7 @@
                                     Technical Support Services
                                 </li>
                             </ul>
-                            <a class="btn btn--neon signUpTrigger" href="#">Upgrade Plan</a>
+                            <a class="btn btn--neon signUpTrigger" href="#">Join Team</a>
                         </li>
                     </ul>
                 </div>
@@ -613,5 +616,6 @@
         <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
         <script src="js/common.min.js"></script>
         <script src="js/ticker.min.js"></script>
+        <script src="js/modules/nav.js"></script>
     </body>
 </html>
